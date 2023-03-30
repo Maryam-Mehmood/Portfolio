@@ -267,7 +267,7 @@ display: flex;
 /* ===== Home Section ===== */
 .home
 {
- background: url('../img/portfolio.jpeg');
+ background: url('https://img.freepik.com/premium-photo/dark-black-background-with-notebook-pen-premium-photo_659511-11.jpg');
  background-size: cover;
  background-position: center center;
  height: 100vh;
